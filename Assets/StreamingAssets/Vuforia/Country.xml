@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="br" size="1600.000000 1120.000000" />
+    <ImageTarget name="cu" size="1600.000000 800.000000" />
+    <ImageTarget name="FlagCostaRica" size="1600.000000 960.000000" />
+    <ImageTarget name="gt" size="1600.000000 1000.000000" />
+    <ImageTarget name="ht" size="1600.000000 960.000000" />
+    <ImageTarget name="ni" size="1600.000000 961.000000" />
+    <ImageTarget name="sv" size="1600.000000 903.000000" />
+    <ImageTarget name="uy" size="1600.000000 1067.000000" />
+    <ImageTarget name="ar" size="1600.000000 1029.000000" />
+    <ImageTarget name="do" size="1600.000000 1000.000000" />
+  </Tracking>
+</QCARConfig>
